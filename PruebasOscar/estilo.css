@@ -9,6 +9,11 @@ header{
 	background-color: #10ADED;
 }
 /*Formulario de entrada*/
+#principal{
+	background-image: url(fondo2.jpg);
+	background-repeat: no-repeat;
+	height: auto;
+}
 #sesion{
 	font-family: "letra1", serif;
 	margin: 16% auto;

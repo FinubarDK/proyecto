@@ -1,15 +1,10 @@
-<?php
-	session_start();
-	$_SESSION["usuario"]="patata";
-	$_SESSION["contrasena"]="patata";
-?>
 <html>
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title>Autobuses AJAX</title>
-	<link rel="stylesheet" href="estilo/estilo.css">
-	<link rel="icon" type="image/png" href="bus.png" />
+	<link rel="stylesheet" href="estilo.css">
+	<link rel="icon" type="image/png" href="" />
 	<script src="control.js" type="text/javascript" charset="utf-8" async defer></script>
 </head>
 <body id="principal">
